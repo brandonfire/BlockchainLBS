@@ -1,0 +1,1 @@
+This is a java implemented blockchain project for Location security of smartphones.
